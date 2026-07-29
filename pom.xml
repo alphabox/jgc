@@ -21,7 +21,7 @@
     <lombok.version>1.18.42</lombok.version>
     <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
     <mapstruct.version>1.6.3</mapstruct.version>
-    <bcprov-jdk18on.version>1.82</bcprov-jdk18on.version>
+    <bcprov-jdk18on.version>1.85</bcprov-jdk18on.version>
 
     <!-- Image related properties -->
     <image.name>alphabox/jira-gitea-connector</image.name>
