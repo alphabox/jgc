@@ -6,7 +6,7 @@
     <artifactId>spring-boot-starter-parent</artifactId>
     <groupId>org.springframework.boot</groupId>
     <relativePath />
-    <version>4.0.2</version>
+    <version>4.1.0</version>
   </parent>
 
   <groupId>hu.alphabox</groupId>
